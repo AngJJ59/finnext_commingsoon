@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  .untitled-design-1-1 {
+    position: relative;
+    width: 543px;
+    height: 109px;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .frame-div {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+  }
+  .coming-soon-p {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .stay-tuned-p {
+    margin: 0;
+  }
+  .coming-soon-stay-tuned {
+    position: relative;
+    display: inline-block;
+  }
+  .desktop-1,
+  .frame-div1 {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+  }
+  .desktop-1 {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    flex-direction: column;
+    padding: 337px 448px;
+    justify-content: flex-start;
+    text-align: center;
+    font-size: 64px;
+    color: #000;
+    font-family: Poppins;
+  }
+  
